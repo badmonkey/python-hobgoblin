@@ -1,0 +1,17 @@
+
+https://pypi.org/project/sqlitent/
+https://github.com/studio-ousia/mprpc
+http://theory.stanford.edu/~nikolaj/programmingz3.html
+https://www.pykka.org/en/latest/quickstart/
+https://pyrlang.github.io/Pyrlang/cookbook.html#gen-server-like-processes
+
+https://pypi.org/project/cachew/
+
+https://waylonwalker.com/python-tool-config/
+
+https://github.com/bczsalba/pytermgui
+
+https://github.com/mewwts/addict
+https://github.com/cdgriffith/Box
+https://pypi.org/project/config-decorator/
+
