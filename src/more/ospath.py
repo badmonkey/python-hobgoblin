@@ -3,7 +3,7 @@ import os.path as _ospath
 import tempfile
 from os.path import *  # noqa
 
-import codefresh.more.pathlib as pathlib
+# import more.pathlib as pathlib
 
 
 def expandkw(p, **kwargs):

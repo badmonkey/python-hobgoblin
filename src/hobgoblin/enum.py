@@ -1,3 +1,4 @@
+import enum as _enum
 import collections
 import sys
 
@@ -22,3 +23,5 @@ def make(*args, _uppercase=False, _cls=None, **kwargs):
 
     Enum = collections.namedtuple("Enum", keys)
     return Enum(*values)
+
+# use enum.Enum

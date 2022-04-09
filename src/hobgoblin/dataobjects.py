@@ -43,3 +43,10 @@ class objectdict(dict):
 
     def __str__(self):
         return pprint.pformat(self)
+
+
+# class AttrDict(dict):
+#     def __init__(self, *args, **kwargs):
+#         super(AttrDict, self).__init__(*args, **kwargs)
+#         self.__dict__ = self
+
